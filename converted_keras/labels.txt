@@ -1,0 +1,36 @@
+0 Wheat foot rot
+1 wheat brown rust 
+2 wheat flag must 
+3 wheat brown rust
+4 wheat flag must
+5 wheat leaf blotch
+6 wheat loose must
+7 wheat stripe rust
+8 Sorghum grain mould
+9 sorghum charcoal rot
+10 sorghum downy mildew
+11 sorghum of erogt
+12 groundnut early leaf spot
+13 ground nut late leaf spot
+14 ground nut rust
+15 groundnut steam rot
+16 ground nut bud necrosis
+17 groundnut alternatia leaf spot
+18 chilli bacterial leaf
+19 chilli cercopora leaf spot
+20 chilli powdery mildew
+21 chilli damping off
+22 chilli fruit rot and die back
+23 sugarcane grassy shoot
+24 sugarcane leaf scald disease
+25 sugarcane red rot
+26 sugarcane red strooped disease
+27 sugarcane smut
+28 sugarcane wilt 
+29 cotton boll root
+30 cotton leaf blight
+31 cotton root rot
+32 cotton wilt
+33 jute stem rot
+34 jute black band
+35 jute tip blight
